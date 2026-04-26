@@ -18,7 +18,11 @@ An advanced **AI + Cybersecurity tool** that analyzes browser cookies, detects p
 
 ## 🏗️ System Architecture
 
-Chrome Extension → JSON Export → Flask Backend → ML Model → Risk Analysis → Dashboard + PDF Report
+Chrome Extension → JSON Export → Flask Backend → ML Model → Risk Analysis → Dashboard + PDF Report  
+
+### 📌 Architecture Diagram
+
+![Architecture Diagram](screenshot/architecture.png)
 
 ---
 
@@ -66,11 +70,7 @@ Chrome Extension → JSON Export → Flask Backend → ML Model → Risk Analysi
 
 ## 📸 Screenshots
 
-
- ![Extension Popup](screenshot/extension.png)
-- ![Analysis](screenshot/analysis.png)
-- ![Score](screenshot/score.png)  
-- ![Dashboard UI](screenshot/dashboard.png)
-
-
-
+![Extension Popup](screenshot/extension.png)  
+![Analysis](screenshot/analysis.png)  
+![Score](screenshot/score.png)  
+![Dashboard UI](screenshot/dashboard.png)
